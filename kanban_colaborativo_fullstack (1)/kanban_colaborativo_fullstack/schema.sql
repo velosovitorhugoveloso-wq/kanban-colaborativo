@@ -1,0 +1,2 @@
+-- O esquema é criado automaticamente na primeira execução pelo Flask-SQLAlchemy.
+-- Tabelas: user, board, membership, task, comment, checklist_item e activity.
